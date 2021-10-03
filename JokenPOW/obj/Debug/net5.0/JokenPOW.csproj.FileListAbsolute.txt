@@ -1,0 +1,16 @@
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.exe
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.deps.json
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.runtimeconfig.json
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.runtimeconfig.dev.json
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.dll
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\ref\JokenPOW.dll
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\bin\Debug\net5.0\JokenPOW.pdb
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.csproj.AssemblyReference.cache
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.AssemblyInfoInputs.cache
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.AssemblyInfo.cs
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.csproj.CoreCompileInputs.cache
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.dll
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\ref\JokenPOW.dll
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.pdb
+C:\Users\lurri\source\repos\JokenPOW\JokenPOW\obj\Debug\net5.0\JokenPOW.genruntimeconfig.cache

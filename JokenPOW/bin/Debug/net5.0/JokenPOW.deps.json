@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JokenPOW/1.0.0": {
+        "runtime": {
+          "JokenPOW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JokenPOW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
