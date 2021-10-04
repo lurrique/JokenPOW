@@ -12,10 +12,10 @@ namespace JokenPOW
         {
             Console.WriteLine("Welcome to the JokenPOW game.\r\n\r\n" +
                 "Player 1, press 1 for rock, 2 for paper or 3 for scissors.\r\n");
-            char p1 = Console.ReadKey(true).KeyChar;
+            var p1 = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("Player 2, press 1 for rock, 2 for paper or 3 for scissors.");
-            char p2 = Console.ReadKey(true).KeyChar;
+            Console.WriteLine("\r\nPlayer 2, press 1 for rock, 2 for paper or 3 for scissors.\r\n");
+            var p2 = Int32.Parse(Console.ReadLine());
 
             if (p1 == p2)
             {
@@ -45,7 +45,6 @@ namespace JokenPOW
             {
                 Console.WriteLine("\r\nScissors cuts paper.Player 1 won!");
             }
-            
             }
 
         }
